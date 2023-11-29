@@ -259,7 +259,7 @@ GameObject:
   - component: {fileID: 714931916}
   - component: {fileID: 714931915}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Table
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -640,7 +640,7 @@ GameObject:
   - component: {fileID: 1202862028}
   - component: {fileID: 1202862029}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: Ball
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -715,7 +715,7 @@ Transform:
   m_GameObject: {fileID: 1202862023}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.41677582, y: 1.722, z: 0.673}
-  m_LocalScale: {x: 0.15005623, y: 0.15005623, z: 0.15005623}
+  m_LocalScale: {x: 0.15637574, y: 0.15637574, z: 0.15637574}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
